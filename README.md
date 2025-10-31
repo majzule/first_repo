@@ -1,2 +1,3 @@
 # first_repo
-Wroking with DESeq2
+Working with DESeq2
+This is a line directly form RStudio. Cool, right? 
